@@ -1,2 +1,5 @@
-# What-The-Flexbox
-McKenna follows along with the What-The-Flexbox course at [flexbox.io](https://flexbox.io/) by Wes Bos.
+# What The Flexbox?!
+
+![](http://flexbox.io/images/share.png)
+
+Exercises for the "What The Flexbox?!" video course. Videos available at <http://flexbox.io>
